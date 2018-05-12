@@ -1,0 +1,39 @@
+_repo: The-Handbook-to-English-Heraldry_23186
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Utting, R. B.
+    gutenberg_agent_id: '25734'
+    url: http://www.gutenberg.org/2009/agents/25734
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boutell, Charles
+    birthdate: 1812
+    deathdate: 1877
+    gutenberg_agent_id: '25735'
+    url: http://www.gutenberg.org/2009/agents/25735
+  editor:
+    agent_name: Fox-Davies, Arthur Charles
+    alias: Fox-Davies, A. C. (Arthur Charles)
+    birthdate: 1871
+    deathdate: 1928
+    gutenberg_agent_id: '25733'
+    url: http://www.gutenberg.org/2009/agents/25733
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heraldry -- Great Britain'
+- !lcc 'CR'
+title: The Handbook to English Heraldry
+url: http://www.gutenberg.org/ebooks/23186
